@@ -1,25 +1,16 @@
 // https://github.com/runtimeninja
 // https://www.hackerrank.com/profile/toufiq_py
 
-In this challenge, you are required to calculate and print the sum of the elements in an array, keeping in mind that some of those integers may be quite large.
+Alice and Bob each created one problem for HackerRank. A reviewer rates the two challenges, awarding points on a scale from 1 to 100 for three categories: problem clarity, originality, and difficulty.
 
-Function Description
+The rating for Alice's challenge is the triplet a = (a[0], a[1], a[2]), and the rating for Bob's challenge is the triplet b = (b[0], b[1], b[2]).
 
-Complete the aVeryBigSum function in the editor below. It must return the sum of all array elements.
+The task is to find their comparison points by comparing a[0] with b[0], a[1] with b[1], and a[2] with b[2].
 
-aVeryBigSum has the following parameter(s):
+If a[i] > b[i], then Alice is awarded 1 point.
+If a[i] < b[i], then Bob is awarded 1 point.
+If a[i] = b[i], then neither person receives a point.
+Comparison points is the total points a person earned.
 
-int ar[n]: an array of integers .
-Return
-
-long: the sum of all array elements
-Input Format
-
-The first line of the input consists of an integer .
-The next line contains  space-separated integers contained in the array.
-
-Output Format
-
-Return the integer sum of the elements in the array.
-
+Given a and b, determine their respective comparison points.
 More Details Link: https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true
