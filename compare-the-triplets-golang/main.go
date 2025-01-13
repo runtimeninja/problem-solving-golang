@@ -1,5 +1,6 @@
 // https://github.com/runtimeninja
 // https://www.hackerrank.com/profile/toufiq_py
+// https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true
 package main
 
 import (
