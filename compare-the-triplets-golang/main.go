@@ -1,6 +1,7 @@
 // https://github.com/runtimeninja
 // https://www.hackerrank.com/profile/toufiq_py
 // https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true
+
 package main
 
 import (
@@ -11,6 +12,7 @@ import (
 	"strings"
 )
 
+//DETAILS PROVIDED BY HACKERRANK WHILE SOLVING THE PROBLEM
 /*
 * Complete the 'compareTriplets' function below.
 *
@@ -20,6 +22,7 @@ import (
 *  2. INTEGER_ARRAY b
  */
 
+// I HAVE STARTED WRITING CODE FROM HERE
 // compareTriplets function compares the ratings of Alice and Bob and calculates their scores.
 // param:
 // - a: a slice of 3 integers representing Alice's ratings.

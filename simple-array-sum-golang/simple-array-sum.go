@@ -10,6 +10,7 @@ import (
 	"strings"
 )
 
+//DETAILS PROVIDED BY HACKERRANK WHILE SOLVING THE PROBLEM
 /*
  * Complete the 'simpleArraySum' function below.
  *
@@ -17,6 +18,7 @@ import (
  * The function accepts INTEGER_ARRAY ar as parameter.
  */
 
+// I HAVE STARTED WRITING CODE FROM HERE
 // simpleArraySum calculates the sum of an array of integers.
 // param:
 // - ar: a slice of integers
