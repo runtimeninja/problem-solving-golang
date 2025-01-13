@@ -23,13 +23,13 @@ Copy code
 
 |   ├──  ├── main.go
 
-|   ├──  ├── PROBLEM-DETAILS.md    # Problem Details That I Am Solving
+|   ├──  ├── README.md    # Problem Details That I Am Solving
 
 │   ├── problem-folder-2
 
 |   ├──  ├── main.go
 
-|   ├──  ├── PROBLEM-DETAILS.md    # Problem Details That I Am Solving
+|   ├──  ├── README.md    # Problem Details That I Am Solving
 
 │   ├── ...
 
@@ -42,7 +42,7 @@ Copy code
 Each problem's solution is placed in the problem-solving-golang/problem-directory.
 Folders are named according to the problem they solve.
 The README.md serves as an introduction to the project.
-Inside each problem folder PROBLEM-DETAILS.md this is the problem details and necessary link for the details. 
+Inside each problem folder README.md this is the problem details and necessary link for the details. 
 How to Use
 Clone the repository:
 
