@@ -1,3 +1,6 @@
+// https://github.com/runtimeninja
+// https://www.hackerrank.com/profile/toufiq_py
+
 Given an array of integers, find the sum of its elements.
 
 For example, if the array , , so return .
