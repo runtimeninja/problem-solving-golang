@@ -18,15 +18,25 @@ Copy code
 
 
 ├── problem-solving-golang/
+
 │   ├── problem-folder
+
 |   ├──  ├── main.go
+
 |   ├──  ├── PROBLEM-DETAILS.md    # Problem Details That I Am Solving
+
 │   ├── problem-folder-2
+
 |   ├──  ├── main.go
+
 |   ├──  ├── PROBLEM-DETAILS.md    # Problem Details That I Am Solving
+
 │   ├── ...
+
 ├── README.md          # Project overview and details
+
 └── ...
+
 
 
 Each problem's solution is placed in the problem-solving-golang/problem-directory.
