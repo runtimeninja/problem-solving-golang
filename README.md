@@ -15,6 +15,8 @@ Each problem is implemented in Go, following best practices and clean coding pri
 Repository Structure
 bash
 Copy code
+
+
 ├── problem-solving-golang/
 │   ├── problem-folder
 |   ├──  ├── main.go
@@ -25,6 +27,8 @@ Copy code
 │   ├── ...
 ├── README.md          # Project overview and details
 └── ...
+
+
 Each problem's solution is placed in the problem-solving-golang/problem-directory.
 Folders are named according to the problem they solve.
 The README.md serves as an introduction to the project.
