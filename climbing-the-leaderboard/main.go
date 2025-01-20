@@ -18,6 +18,7 @@ import (
  *  2. INTEGER_ARRAY player
  */
 
+// started coding from here.
 func climbingLeaderboard(ranked []int32, player []int32) []int32 {
 	// Write your code here
 	// removed duplicates and created a dense ranking
@@ -42,6 +43,8 @@ func climbingLeaderboard(ranked []int32, player []int32) []int32 {
 
 	return results
 }
+
+//completed climbingLeaderboard function with dense ranking for problem-solving needs
 
 func main() {
 	reader := bufio.NewReaderSize(os.Stdin, 16*1024*1024)
